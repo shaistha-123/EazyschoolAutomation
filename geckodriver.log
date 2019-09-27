@@ -1,0 +1,336 @@
+1565246840700	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VENKAT~1\\AppData\\Local\\Temp\\rust_mozprofile.5trFdssU7LsO"
+1565246842270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1565246842270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1565246842475	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565246842477	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565246847466	Marionette	INFO	Listening on port 58767
+1565246847655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 4412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2552, Chrome_ChildThread] WARNI[Chi[Parent 4412, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565246876469	Marionette	INFO	Stopped listening on port 58767
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4264, Chrome_ChildThread] WARNING: pip1565246881020	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VENKAT~1\\AppData\\Local\\Temp\\rust_mozprofile.k2HsXTPzGdPP"
+1565246881719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1565246881719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1565246882008	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565246882011	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565246885675	Marionette	INFO	Listening on port 58848
+1565246885940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: [Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 4160, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565247016657	Marionette	INFO	Stopped listening on port 58848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch1565247192697	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VENKAT~1\\AppData\\Local\\Temp\\rust_mozprofile.oJsFzypOT84n"
+1565247193367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1565247193368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1565247193547	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565247193548	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565247197527	Marionette	INFO	Listening on port 59213
+1565247197672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 2896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cha[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 2896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4168, Chrome_ChildThread] WARNING: pipe er[Parent 2896, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565247223117	Marionette	INFO	Stopped listening on port 59213
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1981565247470501	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VENKAT~1\\AppData\\Local\\Temp\\rust_mozprofile.x3JrTVx3SlTd"
+1565247471311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1565247471311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1565247471473	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565247471474	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565247475514	Marionette	INFO	Listening on port 59663
+1565247475588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 1900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1565249709105	Marionette	INFO	Stopped listening on port 59663
+[GPU der@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565247565270	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565247569015	Marionette	INFO	Listening on port 59841
+1565247569350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 5012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 5436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5012, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565247764031	Marionette	INFO	Stopped listening on port 59841
+[GPU 5184, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1565248759342	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VENKAT~1\\AppData\\Local\\Temp\\rust_mozprofile.0ksPp94lCECe"
+1565248760144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1565248760144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1565248760316	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565248760317	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565248763950	Marionette	INFO	Listening on port 61464
+1565248764339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Child 5784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3540, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Child 6136, Chrome_ChildThread] WARNING: pipe error: [Parent 3540, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565249711669	Marionette	INFO	Stopped listening on port 61464
+[GPU 608
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+8, Chrome_ChildTinvalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565249164716	Marionette	INFO	Listening on port 62046
+1565249164727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 5788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_[Child 5812, 1565249715693	Marionette	INFO	Stopped listening on port 62046
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[07773	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565249707778	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565249712441	Marionette	INFO	Listening on port 62809
+1565249714242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2392, Chrome_C[hChild 65ildThread] WARNING:84, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6388, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565249959496	Marionette	INFO	Stopped listening on port 62809
+donManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565249792276	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565249796673	Marionette	INFO	Listening on port 62990
+1565249797128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Child 4480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch[Child 6216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6216, Chrome_ChildThread] W[Parent 4960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_cha[Parent 4960, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565249958461	Marionette	INFO	Stopped listening on port 62990
+all.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565249878698	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565249882275	Marionette	INFO	Listening on port 63171
+1565249882372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Child 4460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 5164, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565249952766	Marionette	INFO	Stopped listening on port 63171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4696, Chrome_ChildThread] WARNING: pipe error: 109: file 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565257669842	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VENKAT~1\\AppData\\Local\\Temp\\rust_mozprofile.ONav161L7O4U"
+1565257670769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1565257670769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1565257671029	addons.xpi-utils	WARN	addMetadata: Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} is invalid: Error: File C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd} does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:557:11) JS Stack trace: loadManifest@XPIInstall.jsm:557:11
+awaitPromise@XPIProvider.jsm:188:3
+syncLoadManifestFromFile@XPIInstall.jsm:620:10
+addMetadata@XPIDatabase.jsm:2334:21
+processFileChanges@XPIDatabase.jsm:2686:21
+checkForChanges@XPIProvider.jsm:2581:34
+startup@XPIProvider.jsm:2159:25
+callProvider@AddonManager.jsm:203:12
+_startProvider@AddonManager.jsm:652:5
+startup@AddonManager.jsm:805:9
+startup@AddonManager.jsm:2775:5
+observe@addonManager.js:66:9
+1565257671030	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2625: TypeError: addon is null
+1565257675278	Marionette	INFO	Listening on port 59753
+1565257675342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://dev.eazyschool.in/struts/js/base/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Child 2196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 6896, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1565258756882	Marionette	INFO	Stopped listening on port 59753
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 6552, Chrome_Child
